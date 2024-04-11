@@ -1,0 +1,7 @@
+<mvc:View controllerName="zgcfioriajrpp.zgcfioriajrpp.controller.View_CFJR"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content />
+    </Page>
+</mvc:View>
